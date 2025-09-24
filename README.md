@@ -32,7 +32,7 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts such as
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/course-registration-system.git
+   git clone https://github.com/ananya324/CourseRegistrationSystems.git
    ```
 2. Open IntelliJ IDEA → **File → Open** → select the cloned project folder.
 3. Ensure the **JDK** is set up (IntelliJ may prompt you to set it).
@@ -64,3 +64,4 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts such as
   * **Encapsulation:** private attributes with getters/setters
   * **Abstraction:** separate classes for modular functionality
   * **Collections:** dynamic data management using ArrayList
+
